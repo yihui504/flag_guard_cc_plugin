@@ -1,0 +1,689 @@
+{
+ "masterId": "693867399",
+ "type": "ceremony",
+ "title": "新学期换届大会暨25中队入队仪式 | 薪火传旗韵，青衿赴新程",
+ "slots": [
+  {
+   "key": "headline",
+   "path": "0:col1/5:txt1",
+   "runs": [
+    {
+     "from": "--&nbsp;新学期换届大会暨25中队入队仪式 --",
+     "len": 27,
+     "occ": 1
+    }
+   ],
+   "primary": "--&nbsp;新学期换届大会暨25中队入队仪式 --",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "-- 新学期换届大会暨25中队入队仪式␣--"
+  },
+  {
+   "key": "slogan",
+   "path": "0:col1/6:txt1",
+   "runs": [
+    {
+     "from": "薪火传旗韵&nbsp;",
+     "len": 11,
+     "occ": 1
+    },
+    {
+     "from": "&nbsp;",
+     "len": 6,
+     "occ": 4
+    },
+    {
+     "from": "青衿赴新程",
+     "len": 5,
+     "occ": 1
+    }
+   ],
+   "primary": "薪火传旗韵&nbsp;",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "薪火传旗韵 青衿赴新程"
+  },
+  {
+   "key": "lede",
+   "path": "1:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "2026年3月20日，北京交通大学国旗仪仗队举行新学期换届大会暨25中队入队仪式。23中队、24中队以及25预备队全体队员参与本次大会，大会由23中队队长吴天骄主持。",
+     "len": 83,
+     "occ": 1
+    },
+    {
+     "from": "红旗高扬，初心不改；步履铿锵，使命同行。扎根红果园沃土，北京交通大学国旗仪仗队始终身姿挺拔，守护国旗荣光，以赤诚之心彰显青年担当。",
+     "len": 65,
+     "occ": 1
+    }
+   ],
+   "primary": "2026年3月20日，北京交通大学国旗仪仗队举行新学期换届大会暨25中队入队仪式。23中队、24中队以及25预备队全体队员参与本次大会，大会由23中队队长吴天骄主持。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "红旗高扬，初心不改；步履铿锵，使命同行。扎根红果园沃土，北京交通大学国旗仪仗队始终身姿挺拔，守护国旗"
+  },
+  {
+   "key": "agenda1_title",
+   "path": "3:col2/0:txt1",
+   "runs": [
+    {
+     "from": "全员肃立 &nbsp;奏唱国歌",
+     "len": 15,
+     "occ": 1
+    }
+   ],
+   "primary": "全员肃立 &nbsp;奏唱国歌",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "全员肃立␣ 奏唱国歌"
+  },
+  {
+   "key": "agenda1_body",
+   "path": "4:col1/0:col1/2:txt1",
+   "runs": [
+    {
+     "from": "全体起立，奏唱中华人民共和国国歌。当雄壮的旋律响彻会场，每一位队员都昂首肃立，目光坚定望向国旗，挺拔的身姿勾勒出青春最坚毅的模样。",
+     "len": 65,
+     "occ": 1
+    }
+   ],
+   "primary": "全体起立，奏唱中华人民共和国国歌。当雄壮的旋律响彻会场，每一位队员都昂首肃立，目光坚定望向国旗，挺拔的身姿勾勒出青春最坚毅的模样。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "全体起立，奏唱中华人民共和国国歌。当雄壮的旋律响彻会场，每一位队员都昂首肃立，目光坚定望向国旗，挺拔"
+  },
+  {
+   "key": "agenda2_title",
+   "path": "6:col2/0:txt1",
+   "runs": [
+    {
+     "from": "25中队入队仪式",
+     "len": 8,
+     "occ": 5
+    }
+   ],
+   "primary": "25中队入队仪式",
+   "primaryUnique": false,
+   "fixed": false,
+   "preview": "25中队入队仪式"
+  },
+  {
+   "key": "agenda2_item",
+   "path": "7:col1/0:col1/2:col2/0:col2/0:txt1",
+   "runs": [
+    {
+     "from": "颁发聘书、章程",
+     "len": 7,
+     "occ": 1
+    }
+   ],
+   "primary": "颁发聘书、章程",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "颁发聘书、章程"
+  },
+  {
+   "key": "agenda2_body",
+   "path": "7:col1/0:col1/3:txt1",
+   "runs": [
+    {
+     "from": "从接过聘书和章程开始，25中队队员将逐步接过护旗重任的接力棒。大家将对照章程、严守纪律，认真训练、做好各项任务，传承优良作风，把每一次出旗、升旗都做到庄重规范，展现仪仗队风采。",
+     "len": 88,
+     "occ": 1
+    },
+    {
+     "from": "在25中队入队仪式上，23中队队员为25中队队员颁发聘书和仪仗队章程。聘书代表着队伍的托付与期许，章程是日常训练和执行任务的行为规范。",
+     "len": 67,
+     "occ": 1
+    }
+   ],
+   "primary": "从接过聘书和章程开始，25中队队员将逐步接过护旗重任的接力棒。大家将对照章程、严守纪律，认真训练、做好各项任务，传承优良作风，把每一次出旗、升旗都做到庄重规范，展现仪仗队风采。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "在25中队入队仪式上，23中队队员为25中队队员颁发聘书和仪仗队章程。聘书代表着队伍的托付与期许，章"
+  },
+  {
+   "key": "agenda3_title",
+   "path": "7:col1/0:col1/5:col2/0:col2/0:txt1",
+   "runs": [
+    {
+     "from": "队员代表尹浩宇发言",
+     "len": 9,
+     "occ": 2
+    }
+   ],
+   "primary": "队员代表尹浩宇发言",
+   "primaryUnique": false,
+   "fixed": false,
+   "preview": "队员代表尹浩宇发言"
+  },
+  {
+   "key": "agenda3_body",
+   "path": "7:col1/0:col1/7:txt1",
+   "runs": [
+    {
+     "from": "25中队队员代表尹浩宇发言，分享了自己加入仪仗队的初心和感受，讲述了从向往、坚持到正式入队的自豪。他代表全体25中队队员表示，将心怀对国旗的敬畏和对仪仗队的热爱，以老队员为榜样，严格要求自己，刻苦训练、勇于担当，把青春投入护旗使命，用实际行动守护国旗，让青春在护旗路上发光出彩。",
+     "len": 139,
+     "occ": 1
+    }
+   ],
+   "primary": "25中队队员代表尹浩宇发言，分享了自己加入仪仗队的初心和感受，讲述了从向往、坚持到正式入队的自豪。他代表全体25中队队员表示，将心怀对国旗的敬畏和对仪仗队的热爱，以老队员为榜样，严格要求自己，刻苦训练、勇于担当，把青春投入护旗使命，用实际行动守护国旗，让青春在护旗路上发光出彩。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "25中队队员代表尹浩宇发言，分享了自己加入仪仗队的初心和感受，讲述了从向往、坚持到正式入队的自豪。他"
+  },
+  {
+   "key": "agenda4_title",
+   "path": "7:col1/0:col1/8:col2/0:col2/0:txt1",
+   "runs": [
+    {
+     "from": "入队宣誓",
+     "len": 4,
+     "occ": 2
+    }
+   ],
+   "primary": "入队宣誓",
+   "primaryUnique": false,
+   "fixed": false,
+   "preview": "入队宣誓"
+  },
+  {
+   "key": "agenda4_body",
+   "path": "7:col1/0:col1/9:txt1",
+   "runs": [
+    {
+     "from": "入队宣誓环节，全体25中队队员起立肃立、右手握拳，跟随领誓人庄严宣誓，承诺遵守队规队纪、传承仪仗精神、践行爱国初心。誓词铿锵有力，既是对国旗的郑重承诺，也是对使命的坚定担当。",
+     "len": 87,
+     "occ": 1
+    }
+   ],
+   "primary": "入队宣誓环节，全体25中队队员起立肃立、右手握拳，跟随领誓人庄严宣誓，承诺遵守队规队纪、传承仪仗精神、践行爱国初心。誓词铿锵有力，既是对国旗的郑重承诺，也是对使命的坚定担当。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "入队宣誓环节，全体25中队队员起立肃立、右手握拳，跟随领誓人庄严宣誓，承诺遵守队规队纪、传承仪仗精神"
+  },
+  {
+   "key": "agenda5_title",
+   "path": "9:col2/0:txt1",
+   "runs": [
+    {
+     "from": "换届竞聘发言",
+     "len": 6,
+     "occ": 1
+    }
+   ],
+   "primary": "换届竞聘发言",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "换届竞聘发言"
+  },
+  {
+   "key": "agenda5_body",
+   "path": "10:col1/0:col1/2:txt1",
+   "runs": [
+    {
+     "from": "本次换届竞聘面向24中队队员，竞聘职位包括队长、执行队长、副队长、办公室部长、外联部部长、联勤保障部部长以及宣传部部长。选举方式为队内投票选举。",
+     "len": 72,
+     "occ": 1
+    }
+   ],
+   "primary": "本次换届竞聘面向24中队队员，竞聘职位包括队长、执行队长、副队长、办公室部长、外联部部长、联勤保障部部长以及宣传部部长。选举方式为队内投票选举。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "本次换届竞聘面向24中队队员，竞聘职位包括队长、执行队长、副队长、办公室部长、外联部部长、联勤保障部"
+  },
+  {
+   "key": "agenda6_body",
+   "path": "10:col1/0:col1/5:col2/0:txt1",
+   "runs": [
+    {
+     "from": "参与竞聘的24中队队员们依次登台，结合自身经历分享对仪仗队工作的理解与思考，畅谈未来的工作规划与发展设想。他们或讲述自己在仪仗队的成长与收获，或提出队伍建设的创新思路，或表达愿为队伍奉献的坚定决心。每一次发言，都饱含着对仪仗队的深情。",
+     "len": 117,
+     "occ": 1
+    }
+   ],
+   "primary": "参与竞聘的24中队队员们依次登台，结合自身经历分享对仪仗队工作的理解与思考，畅谈未来的工作规划与发展设想。他们或讲述自己在仪仗队的成长与收获，或提出队伍建设的创新思路，或表达愿为队伍奉献的坚定决心。每一次发言，都饱含着对仪仗队的深情。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "参与竞聘的24中队队员们依次登台，结合自身经历分享对仪仗队工作的理解与思考，畅谈未来的工作规划与发展"
+  },
+  {
+   "key": "agenda7_title",
+   "path": "12:col2/0:txt1",
+   "runs": [
+    {
+     "from": "新学期动员大会",
+     "len": 7,
+     "occ": 1
+    }
+   ],
+   "primary": "新学期动员大会",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "新学期动员大会"
+  },
+  {
+   "key": "agenda7_body",
+   "path": "13:col1/0:col1/2:txt1",
+   "runs": [
+    {
+     "from": "同时，她明确队伍发展方向，强调纪律要求，鼓励大家不忘初心、严守标准、刻苦训练、团结协作、提升能力，传承仪仗精神，以青春担当守护国旗、实干奋进、不负时代。",
+     "len": 76,
+     "occ": 1
+    },
+    {
+     "from": "23中队队长吴天骄作动员发言。她首先感谢往届队员的付出，回顾仪仗队的成长与成绩，肯定全体队员的作风和精神，欢迎25中队队员，并认可参加换届竞聘的队员。",
+     "len": 75,
+     "occ": 1
+    }
+   ],
+   "primary": "同时，她明确队伍发展方向，强调纪律要求，鼓励大家不忘初心、严守标准、刻苦训练、团结协作、提升能力，传承仪仗精神，以青春担当守护国旗、实干奋进、不负时代。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "23中队队长吴天骄作动员发言。她首先感谢往届队员的付出，回顾仪仗队的成长与成绩，肯定全体队员的作风和"
+  },
+  {
+   "key": "summary_body",
+   "path": "15:col1/0:col1/1:txt1",
+   "runs": [
+    {
+     "from": "本次北京交通大学国旗仪仗队新学期换届大会暨25中队入队仪式顺利落幕，完成队员交接，吸纳新生力量，凝聚奋进动力。一代代仪仗队员秉承学校 “知行” 校训，坚守护旗使命，心怀爱国之情，勇于担当尽责。",
+     "len": 96,
+     "occ": 1
+    },
+    {
+     "from": "希望全体队员以此为起点，继续扛旗前行，用心守护国旗升降，立足本职、苦练本领，传承仪仗精神，让青春在护旗使命中闪光，让仪仗风采常驻校园。",
+     "len": 67,
+     "occ": 1
+    }
+   ],
+   "primary": "本次北京交通大学国旗仪仗队新学期换届大会暨25中队入队仪式顺利落幕，完成队员交接，吸纳新生力量，凝聚奋进动力。一代代仪仗队员秉承学校 “知行” 校训，坚守护旗使命，心怀爱国之情，勇于担当尽责。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "本次北京交通大学国旗仪仗队新学期换届大会暨25中队入队仪式顺利落幕，完成队员交接，吸纳新生力量，凝聚"
+  },
+  {
+   "key": "end_label",
+   "path": "19:col2/0:txt1",
+   "runs": [
+    {
+     "from": "END",
+     "len": 3,
+     "occ": 1
+    }
+   ],
+   "primary": "END",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "END"
+  },
+  {
+   "key": "signature",
+   "path": "22:col1/0:txt1",
+   "runs": [
+    {
+     "from": "审核/黄译辉、陈焕捷",
+     "len": 10,
+     "occ": 1
+    },
+    {
+     "from": "文案/刘温涛",
+     "len": 6,
+     "occ": 1
+    },
+    {
+     "from": "排版/刘温涛",
+     "len": 6,
+     "occ": 1
+    }
+   ],
+   "primary": "审核/黄译辉、陈焕捷",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "文案/刘温涛排版/刘温涛审核/黄译辉、陈焕捷"
+  }
+ ],
+ "images": [
+  {
+   "index": 0,
+   "src": "//statics.xiumi.us/mat/i/fvId/ac41cadd107b8df3125c745bf6e46c13_sz-107473.png",
+   "path": "0:col1/0:img1"
+  },
+  {
+   "index": 1,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/7d163ae479e2675d864e1a38b7d5f0a7-sz_4184.png?x-oss-process=style/xm",
+   "path": "0:col1/1:img1"
+  },
+  {
+   "index": 2,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/7d163ae479e2675d864e1a38b7d5f0a7-sz_4184.png?x-oss-process=style/xm",
+   "path": "0:col1/2:img1"
+  },
+  {
+   "index": 3,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/7d163ae479e2675d864e1a38b7d5f0a7-sz_4184.png?x-oss-process=style/xm",
+   "path": "0:col1/3:img1"
+  },
+  {
+   "index": 4,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/7d163ae479e2675d864e1a38b7d5f0a7-sz_4184.png?x-oss-process=style/xm",
+   "path": "0:col1/4:img1"
+  },
+  {
+   "index": 5,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "0:col1/7:img1"
+  },
+  {
+   "index": 6,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "0:col1/8:img1"
+  },
+  {
+   "index": 7,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/26181f74edd0747e7a91de3d0db6aa2d-sz_13827.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_295,w_368,x_132,y_337/format,webp",
+   "path": "0:col1/9:img1"
+  },
+  {
+   "index": 8,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/26181f74edd0747e7a91de3d0db6aa2d-sz_13827.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_217,w_250,x_0,y_0/format,webp",
+   "path": "0:col1/10:img1"
+  },
+  {
+   "index": 9,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png",
+   "path": "0:col1/11:img1"
+  },
+  {
+   "index": 10,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/7d163ae479e2675d864e1a38b7d5f0a7-sz_4184.png?x-oss-process=style/xm",
+   "path": "0:col1/12:img1"
+  },
+  {
+   "index": 11,
+   "src": "//statics.xiumi.us/mat/i/fvId/44f96b1a5ef329cf60cbcba9d0d93a89_sz-131311.png",
+   "path": "0:col1/13:img1"
+  },
+  {
+   "index": 12,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/9b679a62051c5c2d839309bc7ccfc9dc-sz_1593344.gif",
+   "path": "0:col1/14:img1"
+  },
+  {
+   "index": 13,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "3:col1/0:img1"
+  },
+  {
+   "index": 14,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "3:col3/0:img1"
+  },
+  {
+   "index": 15,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/b18a233bdf40d5163f8f5a383fee13b5-sz_5030848.jpg?x-oss-process=style/xm",
+   "path": "4:col1/0:col1/0:img1"
+  },
+  {
+   "index": 16,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/26181f74edd0747e7a91de3d0db6aa2d-sz_13827.png?x-oss-process=style/xm",
+   "path": "4:col1/0:col1/3:col2/0:img1"
+  },
+  {
+   "index": 17,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "6:col1/0:img1"
+  },
+  {
+   "index": 18,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "6:col3/0:img1"
+  },
+  {
+   "index": 19,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/aecff70700de78eb12bf9c1c277c0182-sz_2971655.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/0:img1"
+  },
+  {
+   "index": 20,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "7:col1/0:col1/2:col1/0:img1"
+  },
+  {
+   "index": 21,
+   "src": "//statics.xiumi.us/mat/i/fvId/5c28dea4d6829356fdbac663c1ab0a81_sz-27247.png",
+   "path": "7:col1/0:col1/2:col2/0:col1/0:img1"
+  },
+  {
+   "index": 22,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "7:col1/0:col1/2:col3/0:img1"
+  },
+  {
+   "index": 23,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/067dd2558212bf8341aba2a267519fc1-sz_244031.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/4:col1/1:col1/0:img1"
+  },
+  {
+   "index": 24,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/a5dc1497b16058ddd45ec2db36d6b619-sz_7054393.png?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/4:col1/4:col1/0:img1"
+  },
+  {
+   "index": 25,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/fc13aac243be60cbfdc25d9bb5ddc738-sz_3560080.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/4:col2/1:col1/0:img1"
+  },
+  {
+   "index": 26,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/4434887a44fe177d69907b8b7e779e3c-sz_228471.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/4:col2/3:col1/0:img1"
+  },
+  {
+   "index": 27,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "7:col1/0:col1/5:col1/0:img1"
+  },
+  {
+   "index": 28,
+   "src": "//statics.xiumi.us/mat/i/fvId/5c28dea4d6829356fdbac663c1ab0a81_sz-27247.png",
+   "path": "7:col1/0:col1/5:col2/0:col1/0:img1"
+  },
+  {
+   "index": 29,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "7:col1/0:col1/5:col3/0:img1"
+  },
+  {
+   "index": 30,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/34426cac3cc87adbcac813cb60f1d4d3-sz_517864.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/6:img1"
+  },
+  {
+   "index": 31,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "7:col1/0:col1/8:col1/0:img1"
+  },
+  {
+   "index": 32,
+   "src": "//statics.xiumi.us/mat/i/fvId/5c28dea4d6829356fdbac663c1ab0a81_sz-27247.png",
+   "path": "7:col1/0:col1/8:col2/0:col1/0:img1"
+  },
+  {
+   "index": 33,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "7:col1/0:col1/8:col3/0:img1"
+  },
+  {
+   "index": 34,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/9e6c57c76dd3521f52974adec6ac9fbb-sz_4877243.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/10:col1/0:img1"
+  },
+  {
+   "index": 35,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/539651042f89d2ede83ddee548781111-sz_9762683.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/10:col1/1:img1"
+  },
+  {
+   "index": 36,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/26181f74edd0747e7a91de3d0db6aa2d-sz_13827.png?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/10:col1/2:col1/0:img1"
+  },
+  {
+   "index": 37,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/e82929e4b7715a25afe0b98580bec4eb-sz_4877593.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/10:col2/0:img1"
+  },
+  {
+   "index": 38,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/308a63eb31dc1057b9e0f938cd738eba-sz_284842.jpg?x-oss-process=style/xm",
+   "path": "7:col1/0:col1/10:col2/1:img1"
+  },
+  {
+   "index": 39,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "9:col1/0:img1"
+  },
+  {
+   "index": 40,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "9:col3/0:img1"
+  },
+  {
+   "index": 41,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/3f4158927cd39c2319fa1f63f0454b1e-sz_4005128.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/0:img1"
+  },
+  {
+   "index": 42,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/93e4a09c62eba1963ea23d16ebc0ec3d-sz_416471.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/0:img1"
+  },
+  {
+   "index": 43,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/1c9f27a76b2a4a837017e294130c7aa3-sz_172818.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/1:img1"
+  },
+  {
+   "index": 44,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/63430dd372c245f66e9a769378cb43d6-sz_2407157.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/2:img1"
+  },
+  {
+   "index": 45,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/ddafbbef8aac6b72d44b93b108d932d9-sz_250249.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/3:img1"
+  },
+  {
+   "index": 46,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/d29298be1f7d9d037714a84e13d99717-sz_311012.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/4:img1"
+  },
+  {
+   "index": 47,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/321f93f401d77fd48839153bee10a4b9-sz_253709.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/5:img1"
+  },
+  {
+   "index": 48,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/1d3646d1f53e81efa8ea260660510ba1-sz_425231.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/6:img1"
+  },
+  {
+   "index": 49,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/fca9654de57fc0eaf07a1db8d49c6801-sz_257954.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/7:img1"
+  },
+  {
+   "index": 50,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/1734df611c518ee47ea8c27f1c81c9e4-sz_516496.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/8:img1"
+  },
+  {
+   "index": 51,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/870f07e328786fc1ce12f79d9b5f3ae1-sz_366009.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/9:img1"
+  },
+  {
+   "index": 52,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/b27c26b017dc55963315143ddc699534-sz_311128.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/10:img1"
+  },
+  {
+   "index": 53,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/7efe1768fb74e8f1dd2ef7ca74eca897-sz_443291.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/11:img1"
+  },
+  {
+   "index": 54,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/4217d677a8115fe4eff0675c52dcb3b5-sz_434486.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/3:col1/0:col1/12:img1"
+  },
+  {
+   "index": 55,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/087cf9bb16b0964a0a3ce73f79eea0d6-sz_5411.png?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/5:col1/0:col1/0:img1"
+  },
+  {
+   "index": 56,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/4f97336e290b2583f3890a88e9797407-sz_4495027.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/7:col1/0:img1"
+  },
+  {
+   "index": 57,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/90750f34dc97372dd7b141b30dcbe2d7-sz_4144257.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/7:col1/1:img1"
+  },
+  {
+   "index": 58,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/26181f74edd0747e7a91de3d0db6aa2d-sz_13827.png?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/7:col1/2:col1/0:img1"
+  },
+  {
+   "index": 59,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/6c24ed011e5d83b608d35b6ef2e8fbe9-sz_5325270.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/7:col2/0:img1"
+  },
+  {
+   "index": 60,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/75f9363c24dd2225cd3dc5d1f1c78eb6-sz_3940298.jpg?x-oss-process=style/xm",
+   "path": "10:col1/0:col1/7:col2/1:img1"
+  },
+  {
+   "index": 61,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "12:col1/0:img1"
+  },
+  {
+   "index": 62,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/3f0c19a7800df2c812b3f025708dd0db-sz_104492.png?x-oss-process=style/xm",
+   "path": "12:col3/0:img1"
+  },
+  {
+   "index": 63,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/7c08fe4845291e7be88a01f372121747-sz_669543.jpg?x-oss-process=style/xm",
+   "path": "13:col1/0:col1/0:img1"
+  },
+  {
+   "index": 64,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/26181f74edd0747e7a91de3d0db6aa2d-sz_13827.png?x-oss-process=style/xm",
+   "path": "13:col1/0:col1/3:col2/0:img1"
+  },
+  {
+   "index": 65,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/e7217dc9f67bfe331c61ff6737d8dba3-sz_105392.jpg?x-oss-process=style/xm",
+   "path": "17:img1"
+  },
+  {
+   "index": 66,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "19:col1/0:img1"
+  },
+  {
+   "index": 67,
+   "src": "//statics.xiumi.us/stc/images/templates-assets/tpl-paper/image/d05d28f741b4adac39191ace522bf9b7-sz_268893.gif",
+   "path": "19:col3/0:img1"
+  }
+ ]
+}

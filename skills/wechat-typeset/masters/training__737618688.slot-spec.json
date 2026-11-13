@@ -1,0 +1,604 @@
+{
+ "masterId": "737618688",
+ "type": "training",
+ "title": "《发这篇》十月训练总结｜行之有恒 久而成锋",
+ "slots": [
+  {
+   "key": "team_name",
+   "path": "0:col1/4:txt1",
+   "runs": [
+    {
+     "from": "北京交通大学国旗仪仗队",
+     "len": 11,
+     "occ": 2
+    }
+   ],
+   "primary": "北京交通大学国旗仪仗队",
+   "primaryUnique": false,
+   "fixed": true,
+   "preview": "北京交通大学国旗仪仗队"
+  },
+  {
+   "key": "slogan",
+   "path": "0:col1/7:txt1",
+   "runs": [
+    {
+     "from": "行之有恒",
+     "len": 4,
+     "occ": 1
+    },
+    {
+     "from": "久而成锋",
+     "len": 4,
+     "occ": 1
+    }
+   ],
+   "primary": "行之有恒",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "行之有恒久而成锋"
+  },
+  {
+   "key": "month_label",
+   "path": "0:col1/8:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "—&nbsp;十月训练总结",
+     "len": 13,
+     "occ": 1
+    },
+    {
+     "from": "&nbsp;—",
+     "len": 7,
+     "occ": 1
+    }
+   ],
+   "primary": "—&nbsp;十月训练总结",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "— 十月训练总结 —"
+  },
+  {
+   "key": "lede",
+   "path": "1:col1/1:txt1",
+   "runs": [
+    {
+     "from": "秋意渐浓，26中队预备队已在仪仗队度过了一个月的时光，25中队也接过接力棒，将逐步接手日常升旗任务",
+     "len": 49,
+     "occ": 1
+    },
+    {
+     "from": "。",
+     "len": 1,
+     "occ": 11
+    }
+   ],
+   "primary": "秋意渐浓，26中队预备队已在仪仗队度过了一个月的时光，25中队也接过接力棒，将逐步接手日常升旗任务",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "秋意渐浓，26中队预备队已在仪仗队度过了一个月的时光，25中队也接过接力棒，将逐步接手日常升旗任务。"
+  },
+  {
+   "key": "sq1_title",
+   "path": "4:col2/0:txt1",
+   "runs": [
+    {
+     "from": "&nbsp;26中队预备队风采&nbsp;",
+     "len": 21,
+     "occ": 1
+    }
+   ],
+   "primary": "&nbsp;26中队预备队风采&nbsp;",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "26中队预备队风采"
+  },
+  {
+   "key": "sq1_content_label",
+   "path": "5:col1/0:txt1",
+   "runs": [
+    {
+     "from": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+     "len": 47,
+     "occ": 1
+    },
+    {
+     "from": "01训练内容&nbsp;",
+     "len": 12,
+     "occ": 1
+    },
+    {
+     "from": "&nbsp;",
+     "len": 6,
+     "occ": 30
+    }
+   ],
+   "primary": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "01训练内容"
+  },
+  {
+   "key": "sq1_content_body",
+   "path": "5:col1/1:txt1",
+   "runs": [
+    {
+     "from": "本月，26中队预备队以夯实基础、锤炼纪律素养、塑造良好风貌为核心目标，有序开展集中训练。",
+     "len": 44,
+     "occ": 1
+    }
+   ],
+   "primary": "本月，26中队预备队以夯实基础、锤炼纪律素养、塑造良好风貌为核心目标，有序开展集中训练。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "本月，26中队预备队以夯实基础、锤炼纪律素养、塑造良好风貌为核心目标，有序开展集中训练。"
+  },
+  {
+   "key": "sq1_subjects",
+   "path": "5:col1/5:txt1",
+   "runs": [
+    {
+     "from": "训练聚焦基础核心动作，练习稍息、军姿、转体、齐步走摆臂、敬礼礼毕、端腿等基础科目，为后续训练打下基础。",
+     "len": 51,
+     "occ": 1
+    }
+   ],
+   "primary": "训练聚焦基础核心动作，练习稍息、军姿、转体、齐步走摆臂、敬礼礼毕、端腿等基础科目，为后续训练打下基础。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "训练聚焦基础核心动作，练习稍息、军姿、转体、齐步走摆臂、敬礼礼毕、端腿等基础科目，为后续训练打下基础"
+  },
+  {
+   "key": "sq1_result_label",
+   "path": "5:col1/8:txt1",
+   "runs": [
+    {
+     "from": "02训练成果",
+     "len": 6,
+     "occ": 1
+    }
+   ],
+   "primary": "02训练成果",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "02训练成果"
+  },
+  {
+   "key": "sq1_result_body",
+   "path": "5:col1/9:txt1",
+   "runs": [
+    {
+     "from": "面对训练中的短板与不足，全体预备队员反复打磨、练习，逐步攻克难点。",
+     "len": 33,
+     "occ": 1
+    },
+    {
+     "from": "训练初期，存在动作不标准、肢体协调性欠缺、队列整齐度差等问题。",
+     "len": 31,
+     "occ": 1
+    }
+   ],
+   "primary": "面对训练中的短板与不足，全体预备队员反复打磨、练习，逐步攻克难点。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "训练初期，存在动作不标准、肢体协调性欠缺、队列整齐度差等问题。面对训练中的短板与不足，全体预备队员反"
+  },
+  {
+   "key": "sq2_title",
+   "path": "8:col2/0:txt1",
+   "runs": [
+    {
+     "from": "&nbsp; &nbsp; 25中队风采&nbsp; &nbsp;&nbsp;",
+     "len": 39,
+     "occ": 1
+    }
+   ],
+   "primary": "&nbsp; &nbsp; 25中队风采&nbsp; &nbsp;&nbsp;",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "25中队风采"
+  },
+  {
+   "key": "sq2_content_label",
+   "path": "9:col1/1:col1/0:col2/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "训练内容",
+     "len": 4,
+     "occ": 2
+    }
+   ],
+   "primary": "训练内容",
+   "primaryUnique": false,
+   "fixed": true,
+   "preview": "训练内容"
+  },
+  {
+   "key": "sq2_content_body",
+   "path": "9:col1/4:txt1",
+   "runs": [
+    {
+     "from": "十月以来，25中队坚持每周常态化晚训。训练聚焦各项专业能力。",
+     "len": 30,
+     "occ": 1
+    }
+   ],
+   "primary": "十月以来，25中队坚持每周常态化晚训。训练聚焦各项专业能力。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "十月以来，25中队坚持每周常态化晚训。训练聚焦各项专业能力。"
+  },
+  {
+   "key": "sq2_result_label",
+   "path": "9:col1/7:col1/0:col2/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "训练成果",
+     "len": 4,
+     "occ": 2
+    }
+   ],
+   "primary": "训练成果",
+   "primaryUnique": false,
+   "fixed": true,
+   "preview": "训练成果"
+  },
+  {
+   "key": "sq2_result_body",
+   "path": "9:col1/8:txt1",
+   "runs": [
+    {
+     "from": "针对训练短板，队员们主动精进，在带队骨干的指导下逐一纠正偏差，全力磨合队列默契。",
+     "len": 40,
+     "occ": 1
+    }
+   ],
+   "primary": "针对训练短板，队员们主动精进，在带队骨干的指导下逐一纠正偏差，全力磨合队列默契。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "针对训练短板，队员们主动精进，在带队骨干的指导下逐一纠正偏差，全力磨合队列默契。"
+  },
+  {
+   "key": "summary_label",
+   "path": "12:col2/0:txt1",
+   "runs": [
+    {
+     "from": "&nbsp; &nbsp; &nbsp; &nbsp;总&nbsp; &nbsp;结&nbsp; &nbsp; &nbsp; &nbsp;",
+     "len": 69,
+     "occ": 1
+    }
+   ],
+   "primary": "&nbsp; &nbsp; &nbsp; &nbsp;总&nbsp; &nbsp;结&nbsp; &nbsp; &nbsp; &nbsp;",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "总 ␣ 结"
+  },
+  {
+   "key": "summary_body",
+   "path": "13:col1/1:col1/0:txt1",
+   "runs": [
+    {
+     "from": "回望十月，全体队员以饱满热情投入训练。队员们的队列素养、动作标准度、团队默契均得到显著提升。",
+     "len": 46,
+     "occ": 1
+    },
+    {
+     "from": "希望全体队员继续保持良好的训练态度，在后续的训练中精益求精，续写仪仗队的青春荣光。",
+     "len": 41,
+     "occ": 1
+    }
+   ],
+   "primary": "回望十月，全体队员以饱满热情投入训练。队员们的队列素养、动作标准度、团队默契均得到显著提升。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "回望十月，全体队员以饱满热情投入训练。队员们的队列素养、动作标准度、团队默契均得到显著提升。希望全体"
+  },
+  {
+   "key": "signature",
+   "path": "16:txt1",
+   "runs": [
+    {
+     "from": "审核 | 黄译辉&nbsp;陈焕捷",
+     "len": 17,
+     "occ": 1
+    },
+    {
+     "from": "图片 | 北京交通大学国旗仪仗队",
+     "len": 16,
+     "occ": 1
+    },
+    {
+     "from": "排版 |&nbsp;柳念赓",
+     "len": 13,
+     "occ": 1
+    },
+    {
+     "from": "文案 | 夏凡",
+     "len": 7,
+     "occ": 1
+    }
+   ],
+   "primary": "审核 | 黄译辉&nbsp;陈焕捷",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "文案␣|␣夏凡排版␣| 柳念赓审核␣|␣黄译辉 陈焕捷图片␣|␣北京交通大学国旗仪仗队"
+  }
+ ],
+ "images": [
+  {
+   "index": 0,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/87139e5e05e1f268e30624658420fc98-sz_50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_112,w_500,x_0,y_0/format,webp",
+   "path": "0:col1/0:img1"
+  },
+  {
+   "index": 1,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/e25728ece0516bc5224feab49843bcae-sz_8891.png?x-oss-process=style/xm",
+   "path": "0:col1/1:img1"
+  },
+  {
+   "index": 2,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/16355d3c4c569e1c8b4aa4dc24b95d79-sz_183061.gif",
+   "path": "0:col1/2:img1"
+  },
+  {
+   "index": 3,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/e6590046ca54af8dc4cdd0f9c8169085-sz_34401.png?x-oss-process=style/xm",
+   "path": "0:col1/6:img1"
+  },
+  {
+   "index": 4,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/dc56dc1ab4484aebbf0ce921a84adba1-sz_119416.gif?x-oss-process=image/crop,h_146,w_165,x_314,y_0",
+   "path": "1:col1/0:img1"
+  },
+  {
+   "index": 5,
+   "src": "//statics.xiumi.us/mat/i/fvId/240229bdd4ecce1e3be337594afb2c52_sz-39749.png",
+   "path": "1:col1/2:col1/0:img1"
+  },
+  {
+   "index": 6,
+   "src": "//statics.xiumi.us/mat/i/fvId/e6590046ca54af8dc4cdd0f9c8169085_sz-34401.png?x-oss-process=style/xm",
+   "path": "4:col1/0:col1/0:img1"
+  },
+  {
+   "index": 7,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/dc56dc1ab4484aebbf0ce921a84adba1-sz_119416.gif?x-oss-process=image/crop,h_146,w_165,x_314,y_0",
+   "path": "4:col3/0:img1"
+  },
+  {
+   "index": 8,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/352453a8bc664fd6bfaa330b3d41f197-sz_355832.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_687,w_989,x_0,y_124/format,webp",
+   "path": "5:col1/2:col1/0:img1"
+  },
+  {
+   "index": 9,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "5:col1/2:col1/1:img1"
+  },
+  {
+   "index": 10,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/0c5cd8caa980e9d1defe89f973fd132f-sz_337638.jpg?x-oss-process=style/xm",
+   "path": "5:col1/2:col2/0:img1"
+  },
+  {
+   "index": 11,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/fca2b5afcf979ad4515a19cb3fe47469-sz_330010.jpg?x-oss-process=style/xm",
+   "path": "5:col1/3:img1"
+  },
+  {
+   "index": 12,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/ee093913481cdea127addb65f32e994f-sz_257750.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_1107,w_1080,x_0,y_201/format,webp",
+   "path": "5:col1/4:col2/0:img1"
+  },
+  {
+   "index": 13,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "5:col1/4:col3/0:img1"
+  },
+  {
+   "index": 14,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/1841332d06e96dc905ce45783db4c565-sz_268309.jpg?x-oss-process=style/xm",
+   "path": "5:col1/4:col3/1:img1"
+  },
+  {
+   "index": 15,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/2a951cb9827c2ac3c67edaf3fad01d4e-sz_234553.jpg?x-oss-process=style/xm",
+   "path": "5:col1/6:col1/0:img1"
+  },
+  {
+   "index": 16,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "5:col1/6:col1/1:img1"
+  },
+  {
+   "index": 17,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/dc56dc1ab4484aebbf0ce921a84adba1-sz_119416.gif?x-oss-process=image/crop,h_146,w_154,x_325,y_0",
+   "path": "5:col1/6:col2/0:img1"
+  },
+  {
+   "index": 18,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/d68495368209ea980d0c4b24fde1a942-sz_277651.jpg?x-oss-process=style/xm",
+   "path": "5:col1/6:col2/1:img1"
+  },
+  {
+   "index": 19,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/838caf3b7500f32934e552751f468f67-sz_285087.jpg?x-oss-process=style/xm",
+   "path": "5:col1/10:col1/0:img1"
+  },
+  {
+   "index": 20,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/eef96b871ffb4f98336568c8032ba188-sz_174607.jpg?x-oss-process=style/xm",
+   "path": "5:col1/10:col2/0:img1"
+  },
+  {
+   "index": 21,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "5:col1/11:col2/0:img1"
+  },
+  {
+   "index": 22,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/d3ad83ebba884b1b07bc20df588dfd71-sz_291499.jpg?x-oss-process=style/xm",
+   "path": "5:col1/11:col2/1:img1"
+  },
+  {
+   "index": 23,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/be0831611fc3b8d443a7285a14db63c0-sz_376452.jpg?x-oss-process=style/xm",
+   "path": "5:col1/11:col3/0:img1"
+  },
+  {
+   "index": 24,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/3cc3df8841b5c09bb1bd09b1a2dfd1b6-sz_260821.jpg?x-oss-process=style/xm",
+   "path": "5:col1/11:col3/1:img1"
+  },
+  {
+   "index": 25,
+   "src": "//statics.xiumi.us/mat/i/fvId/240229bdd4ecce1e3be337594afb2c52_sz-39749.png",
+   "path": "5:col1/12:col1/0:img1"
+  },
+  {
+   "index": 26,
+   "src": "//statics.xiumi.us/mat/i/fvId/e6590046ca54af8dc4cdd0f9c8169085_sz-34401.png?x-oss-process=style/xm",
+   "path": "8:col1/0:col1/0:img1"
+  },
+  {
+   "index": 27,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/dc56dc1ab4484aebbf0ce921a84adba1-sz_119416.gif?x-oss-process=image/crop,h_146,w_165,x_314,y_0",
+   "path": "8:col3/0:img1"
+  },
+  {
+   "index": 28,
+   "src": "//statics.xiumi.us/mat/i/fvId/e6590046ca54af8dc4cdd0f9c8169085_sz-34401.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_144,w_258,x_242,y_358/format,webp",
+   "path": "9:col1/1:col1/0:col1/0:col1/0:img1"
+  },
+  {
+   "index": 29,
+   "src": "//statics.xiumi.us/mat/i/fvId/e6590046ca54af8dc4cdd0f9c8169085_sz-34401.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_144,w_258,x_242,y_358/format,webp",
+   "path": "9:col1/1:col1/0:col3/0:col1/0:img1"
+  },
+  {
+   "index": 30,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/cf0143604050b3da8464b9b2b6c537a6-sz_307198.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,30",
+   "path": "9:col1/2:col2/0:img1"
+  },
+  {
+   "index": 31,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/7c22fd1491375889a6e787470a8cac8a-sz_322747.jpg?x-oss-process=style/xm",
+   "path": "9:col1/2:col3/0:img1"
+  },
+  {
+   "index": 32,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "9:col1/2:col3/1:img1"
+  },
+  {
+   "index": 33,
+   "src": "//statics.xiumi.us/mat/i/fvId/543acf13c0272be99fc3554de7e08c71_sz-28889.png?x-oss-process=image/bright,-30",
+   "path": "9:col1/3:col1/0:img1"
+  },
+  {
+   "index": 34,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "9:col1/5:col1/0:img1"
+  },
+  {
+   "index": 35,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/a79e970f04c6409de7e747a2e6d3ba7d-sz_314265.jpg?x-oss-process=style/xm",
+   "path": "9:col1/5:col1/1:img1"
+  },
+  {
+   "index": 36,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/9f4eef66453ed7a6a722999d05dd6cce-sz_229918.jpg?x-oss-process=style/xm",
+   "path": "9:col1/5:col2/0:img1"
+  },
+  {
+   "index": 37,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/d73e885d1d9581db7dfb8b5d41594dc6-sz_355764.jpg?x-oss-process=style/xm",
+   "path": "9:col1/5:col2/1:img1"
+  },
+  {
+   "index": 38,
+   "src": "//statics.xiumi.us/mat/i/fvId/e6590046ca54af8dc4cdd0f9c8169085_sz-34401.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_144,w_258,x_242,y_358/format,webp",
+   "path": "9:col1/7:col1/0:col1/0:col1/0:img1"
+  },
+  {
+   "index": 39,
+   "src": "//statics.xiumi.us/mat/i/fvId/e6590046ca54af8dc4cdd0f9c8169085_sz-34401.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_144,w_258,x_242,y_358/format,webp",
+   "path": "9:col1/7:col1/0:col3/0:col1/0:img1"
+  },
+  {
+   "index": 40,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/4721c150d46ddeedace9f6fdac2c94a7-sz_270687.jpg?x-oss-process=style/xm",
+   "path": "9:col1/9:col1/0:img1"
+  },
+  {
+   "index": 41,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/dc56dc1ab4484aebbf0ce921a84adba1-sz_119416.gif?x-oss-process=image/crop,h_146,w_154,x_325,y_0",
+   "path": "9:col1/9:col1/1:img1"
+  },
+  {
+   "index": 42,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/f725c347088418c6fbbc604bfcfabd64-sz_231802.jpg?x-oss-process=style/xm",
+   "path": "9:col1/9:col2/0:img1"
+  },
+  {
+   "index": 43,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "9:col1/9:col2/1:img1"
+  },
+  {
+   "index": 44,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/757ef950351788be55bd9a7a9ff6a68a-sz_269859.jpg?x-oss-process=style/xm",
+   "path": "9:col1/9:col2/2:img1"
+  },
+  {
+   "index": 45,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/15905630036e0a50a02b6e4d81dda87a-sz_248570.jpg?x-oss-process=style/xm",
+   "path": "9:col1/11:col1/0:img1"
+  },
+  {
+   "index": 46,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/127c3b1d81950672501bbc8293a25235-sz_300005.jpg?x-oss-process=style/xm",
+   "path": "9:col1/11:col1/1:img1"
+  },
+  {
+   "index": 47,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/3ed946310a413fdf1bb3b2c0b05566e1-sz_290144.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,40/contrast,-10/crop,h_1144,w_873,x_174,y_54/format,webp/sharpen,137",
+   "path": "9:col1/11:col2/0:img1"
+  },
+  {
+   "index": 48,
+   "src": "//statics.xiumi.us/mat/i/fvId/87139e5e05e1f268e30624658420fc98_sz-50376.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/bright,20/crop,h_19,w_500,x_0,y_110/format,webp",
+   "path": "9:col1/11:col2/1:img1"
+  },
+  {
+   "index": 49,
+   "src": "//statics.xiumi.us/mat/i/fvId/240229bdd4ecce1e3be337594afb2c52_sz-39749.png",
+   "path": "9:col1/12:col1/0:img1"
+  },
+  {
+   "index": 50,
+   "src": "//statics.xiumi.us/mat/i/fvId/e6590046ca54af8dc4cdd0f9c8169085_sz-34401.png?x-oss-process=style/xm",
+   "path": "12:col1/0:col1/0:img1"
+  },
+  {
+   "index": 51,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/dc56dc1ab4484aebbf0ce921a84adba1-sz_119416.gif?x-oss-process=image/crop,h_146,w_165,x_314,y_0",
+   "path": "12:col3/0:img1"
+  },
+  {
+   "index": 52,
+   "src": "//statics.xiumi.us/mat/i/fvId/543acf13c0272be99fc3554de7e08c71_sz-28889.png?x-oss-process=image/bright,-30",
+   "path": "13:col1/0:col1/0:img1"
+  },
+  {
+   "index": 53,
+   "src": "//statics.xiumi.us/mat/i/fvId/240229bdd4ecce1e3be337594afb2c52_sz-39749.png",
+   "path": "13:col1/2:col1/0:img1"
+  },
+  {
+   "index": 54,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/54d4221cd1db0b528fb817ab5fe92107-sz_2248792.png?x-oss-process=style/xm",
+   "path": "15:img1"
+  }
+ ]
+}
