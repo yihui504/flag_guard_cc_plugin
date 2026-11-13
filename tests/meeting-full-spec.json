@@ -1,0 +1,25 @@
+{
+  "master": "meeting",
+  "title": "【链路测试v2】某中队见面大会（含图片）",
+  "slots": {
+    "headline": "某中队预备队新队员见面大会",
+    "kicker": "怀链路测试　担全链路荣光",
+    "lede": "11月13日晚，北京交通大学国旗仪仗队举行某中队预备队新队员见面大会。本次大会由测试队长主持，图片链路为本次测试重点。",
+    "agenda1_body": "大会第一项，出旗。国歌响起，全体队员高唱国歌。图片链路v2测试段落。",
+    "agenda2_title": "测试队长寄语",
+    "agenda2_body": "测试队长对全体虚拟队员表示欢迎，以「链路、测试、通过」三个关键词分享感悟。",
+    "agenda3_body": "预备队队员依次登台自我介绍，本段为图片链路v2测试内容。",
+    "agenda4_body": "测试队长说明了新学期训练安排：某中队每周两训，地点测试操场。",
+    "agenda5_body": "大会最后一项，全体合唱。图片链路v2尾段验证。"
+  },
+  "signature": {
+    "文案": "链路测试员",
+    "排版": "链路测试员",
+    "审核": "测试部长",
+    "图片": "某中队全体成员"
+  },
+  "images": {
+    "1": "C:\\Users\\11428\\Desktop\\SKILL for text writing\\_dev\\testphotos\\test-a.jpg",
+    "2": "C:\\Users\\11428\\Desktop\\SKILL for text writing\\_dev\\testphotos\\test-b.jpg"
+  }
+}

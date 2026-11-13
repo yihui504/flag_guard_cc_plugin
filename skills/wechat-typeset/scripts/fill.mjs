@@ -147,7 +147,19 @@ if (content.signature) {
   } else missed.push('signature(路径未命中)');
 }
 
-// ── 6. 换图 ──
+// ── 6. 换图（本地路径自动上传，http(s) URL 直接用）──
+const localFiles = [];
+for (const v of Object.values(content.images ?? {})) {
+  if (!/^https?:\/\//.test(v)) localFiles.push(v);
+}
+if (localFiles.length) {
+  console.log(`检测到 ${localFiles.length} 张本地图片，自动上传图库…`);
+  const { uploadFiles } = await import('./upload.mjs');
+  const mapping = await uploadFiles(localFiles);
+  for (const [k, v] of Object.entries(content.images)) {
+    if (!/^https?:\/\//.test(v)) content.images[k] = mapping[path.resolve(v)] || mapping[v];
+  }
+}
 for (const [idx, newSrc] of Object.entries(content.images ?? {})) {
   const imgSpec = spec.images?.[Number(idx)];
   if (!imgSpec) { missed.push(`image.${idx}(规格无此图)`); continue; }
