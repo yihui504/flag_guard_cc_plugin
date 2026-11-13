@@ -1,0 +1,9 @@
+{
+  "name": "flag-guard-dev",
+  "plugins": [
+    {
+      "name": "flag-guard-cc-plugin",
+      "source": "./"
+    }
+  ]
+}

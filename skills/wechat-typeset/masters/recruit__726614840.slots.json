@@ -1,0 +1,881 @@
+{
+ "masterId": "726614840",
+ "type": "recruit",
+ "title": "国旗仪仗队纳新｜国旗下，等你入列",
+ "slots": [
+  {
+   "path": "0:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/1:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/3:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/4:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/5:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/6:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/7:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/8:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/9:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/10:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/11:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/12:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/13:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/14:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/15:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/16:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "0:col1/17:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/0:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/0:col1/1:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "1:col1/0:col1/0:col1/2:txt1",
+   "plain": "01｜与国旗同行",
+   "occ": 1,
+   "htmlLen": 76,
+   "html": "<p><strong><span style=\"text-decoration: none;\">01｜与国旗同行</span></strong></p>"
+  },
+  {
+   "path": "1:col1/0:col1/1:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "1:col1/0:col1/2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "1:col1/0:col1/3:txt1",
+   "plain": "正步劈开晨曦的光芒， 眼睛比太阳还明亮。汗水和戎装踏破斜阳，踢腿，落地，更铿锵！",
+   "occ": 0,
+   "htmlLen": 171,
+   "html": "<p style><strong>正步劈开晨曦的光芒，&nbsp;</strong></p><p style><strong>眼睛比太阳还明亮。</strong></p><p style><strong>汗水和戎装踏破斜阳，</strong></p><p style><strong style>踢腿，落地，更铿锵！</strong></p>"
+  },
+  {
+   "path": "1:col1/0:col1/4:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/5:col1/1:txt1",
+   "plain": "守护这一抹中国红",
+   "occ": 1,
+   "htmlLen": 41,
+   "html": "<p><em><strong>守护这一抹中国红</strong></em></p>"
+  },
+  {
+   "path": "1:col1/0:col1/5:col2/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "1:col1/0:col1/6:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/7:txt1",
+   "plain": "国旗，是国家的象征、信仰的载体。护卫国旗，是郑重的责任，亦是无声的敬畏。每一次出旗，是千锤百炼的规整；每一次抬臂，是刻入骨髓的标准；每一次踏步，是青年对家国最赤诚的致敬。反复训练淬炼身姿，以庄严之姿，守护五星红旗飘扬。",
+   "occ": 0,
+   "htmlLen": 253,
+   "html": "<p><strong>国旗，是国家的象征、信仰的载体。</strong></p><p><strong>护卫国旗，是郑重的责任，亦是无声的敬畏。</strong></p><p><strong>每一次出旗，是千锤百炼的规整；</strong></p><p><strong>每一次抬臂，是刻入骨髓的标准；</strong></p><p><strong>每一次踏步，是青年对家国最赤诚的致敬。</strong></p><p><strong>反复训练淬炼身姿，以庄严之姿，守护五星红旗飘扬。</strong></p>"
+  },
+  {
+   "path": "1:col1/0:col1/9:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "1:col1/0:col1/10:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/11:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/12:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/13:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/14:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/15:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "1:col1/0:col1/15:col1/2:txt1",
+   "plain": "你会告别拖延，收获挺拔的体态、沉稳的气质；你会拥有一群并肩的同袍，拥有大学最值得骄傲的集体荣誉；你的青春，将和飘扬的五星红旗牢牢绑定。",
+   "occ": 0,
+   "htmlLen": 139,
+   "html": "<p><strong>你会告别拖延，收获挺拔的体态、沉稳的气质；</strong></p><p><strong>你会拥有一群并肩的同袍，拥有大学最值得骄傲的集体荣誉；</strong></p><p><strong>你的青春，将和飘扬的五星红旗牢牢绑定。</strong></p>"
+  },
+  {
+   "path": "1:col1/0:col1/15:col1/3:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "1:col1/0:col1/15:col1/5:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "3:txt1",
+   "plain": "02｜仪仗任务",
+   "occ": 1,
+   "htmlLen": 75,
+   "html": "<p><strong><span style=\"text-decoration: none;\">02｜仪仗任务</span></strong></p>"
+  },
+  {
+   "path": "4:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "5:col1/0:txt1",
+   "plain": "北京交通大学国旗仪仗队承担校园升降旗及重大活动仪仗司礼任务，是校级庆典活动和升旗仪式中值得信赖的队伍。",
+   "occ": 1,
+   "htmlLen": 75,
+   "html": "<p><strong>北京交通大学国旗仪仗队承担校园升降旗及重大活动仪仗司礼任务，是校级庆典活动和升旗仪式中值得信赖的队伍。</strong></p>"
+  },
+  {
+   "path": "6:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "7:col2/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "7:col2/1:txt1",
+   "plain": "使命在肩",
+   "occ": 1,
+   "htmlLen": 37,
+   "html": "<p><em><strong>使命在肩</strong></em></p>"
+  },
+  {
+   "path": "7:col2/2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "8:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "8:col1/1:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "9:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "10:txt1",
+   "plain": "少年自有清风骨，不负山河不负旗。",
+   "occ": 1,
+   "htmlLen": 40,
+   "html": "<p><strong>少年自有清风骨，不负山河不负旗。</strong></p>"
+  },
+  {
+   "path": "11:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "12:txt1",
+   "plain": "从晨光里的日常升旗，到盛典上的仪仗司礼，我们以规范严谨的仪仗礼仪，践行 “知行” 校训，守护五星红旗每一次庄严升起。",
+   "occ": 1,
+   "htmlLen": 82,
+   "html": "<p><strong>从晨光里的日常升旗，到盛典上的仪仗司礼，我们以规范严谨的仪仗礼仪，践行 “知行” 校训，守护五星红旗每一次庄严升起。</strong></p>"
+  },
+  {
+   "path": "13:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "14:txt1",
+   "plain": "03｜部门介绍",
+   "occ": 1,
+   "htmlLen": 75,
+   "html": "<p><strong><span style=\"text-decoration: none;\">03｜部门介绍</span></strong></p>"
+  },
+  {
+   "path": "15:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "16:col1/0:txt1",
+   "plain": "队列之中，我们并肩完成任务；队列之外，四个部门共同做好队伍的日常工作。无论你擅长文字、摄影，还是组织、沟通，都可以在这里发挥所长。",
+   "occ": 1,
+   "htmlLen": 89,
+   "html": "<p><strong>队列之中，我们并肩完成任务；队列之外，四个部门共同做好队伍的日常工作。无论你擅长文字、摄影，还是组织、沟通，都可以在这里发挥所长。</strong></p>"
+  },
+  {
+   "path": "17:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "18:col1/0:col1/0:col1/0:col1/0:txt1",
+   "plain": "01",
+   "occ": 0,
+   "htmlLen": 26,
+   "html": "<p><strong>01</strong></p>"
+  },
+  {
+   "path": "18:col1/0:col2/0:txt1",
+   "plain": "办公室：",
+   "occ": 1,
+   "htmlLen": 97,
+   "html": "<p><strong><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">办公室：</span></strong></p>"
+  },
+  {
+   "path": "19:col1/0:txt1",
+   "plain": "负责队伍日常行政与材料管理，包括经费记录、会议纪要、队员信息、活动材料整理及场地申请等，保障队伍运行规范有序。",
+   "occ": 1,
+   "htmlLen": 156,
+   "html": "<p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>负责队伍日常行政与材料管理，包括经费记录、会议纪要、队员信息、活动材料整理及场地申请等，保障队伍运行规范有序。</strong></p>"
+  },
+  {
+   "path": "20:col1/0:col1/0:col1/0:col1/0:txt1",
+   "plain": "02",
+   "occ": 0,
+   "htmlLen": 26,
+   "html": "<p><strong>02</strong></p>"
+  },
+  {
+   "path": "20:col1/0:col2/0:txt1",
+   "plain": "宣传部：",
+   "occ": 1,
+   "htmlLen": 28,
+   "html": "<p><strong>宣传部：</strong></p>"
+  },
+  {
+   "path": "21:col1/0:txt1",
+   "plain": "负责队伍宣传与形象展示，包括推送、海报、摄影摄像及活动记录。",
+   "occ": 1,
+   "htmlLen": 131,
+   "html": "<p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>负责队伍宣传与形象展示，包括推送、海报、摄影摄像及活动记录。</strong></p>"
+  },
+  {
+   "path": "22:col1/0:col1/0:col1/0:col1/0:txt1",
+   "plain": "03",
+   "occ": 0,
+   "htmlLen": 26,
+   "html": "<p><strong>03</strong></p>"
+  },
+  {
+   "path": "22:col1/0:col2/0:txt1",
+   "plain": "联勤保障部：",
+   "occ": 1,
+   "htmlLen": 30,
+   "html": "<p><strong>联勤保障部：</strong></p>"
+  },
+  {
+   "path": "23:col1/0:txt1",
+   "plain": "负责礼服、训练服、国旗及各类物资的采购、分发、管理，为训练、升旗和各类活动提供可靠的后勤支持。",
+   "occ": 1,
+   "htmlLen": 148,
+   "html": "<p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>负责礼服、训练服、国旗及各类物资的采购、分发、管理，为训练、升旗和各类活动提供可靠的后勤支持。</strong></p>"
+  },
+  {
+   "path": "24:col1/0:col1/0:col1/0:col1/0:txt1",
+   "plain": "04",
+   "occ": 0,
+   "htmlLen": 26,
+   "html": "<p><strong>04</strong></p>"
+  },
+  {
+   "path": "24:col1/0:col2/0:txt1",
+   "plain": "外联部：",
+   "occ": 1,
+   "htmlLen": 97,
+   "html": "<p><strong><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">外联部：</span></strong></p>"
+  },
+  {
+   "path": "25:col1/0:txt1",
+   "plain": "负责队伍对外联络与交流合作，联系校内外组织及兄弟院校，组织交流会与共建活动，拓展队伍合作与实践平台。",
+   "occ": 1,
+   "htmlLen": 155,
+   "html": "<p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>负责队伍对外联络与交流合作，联系校内外组织及兄弟院校，组织交流会与共建活动，拓展队伍合作与实践平台。</strong><br></p>"
+  },
+  {
+   "path": "26:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "27:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "28:col1/0:col1/1:txt1",
+   "plain": "04｜赛场荣誉",
+   "occ": 1,
+   "htmlLen": 75,
+   "html": "<p><strong><span style=\"text-decoration: none;\">04｜赛场荣誉</span></strong></p>"
+  },
+  {
+   "path": "28:col1/0:col1/2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "28:col1/0:col1/3:txt1",
+   "plain": "我们代表学校参加全国及北京市相关比赛、检阅和交流展示。",
+   "occ": 1,
+   "htmlLen": 51,
+   "html": "<p><strong>我们代表学校参加全国及北京市相关比赛、检阅和交流展示。</strong></p>"
+  },
+  {
+   "path": "28:col1/0:col1/4:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/5:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/8:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/8:col1/1:col1/0:txt1",
+   "plain": "荣誉，是汗水的回响",
+   "occ": 1,
+   "htmlLen": 42,
+   "html": "<p><strong><em>荣誉，是汗水的回响</em></strong></p>"
+  },
+  {
+   "path": "28:col1/0:col1/8:col2/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "28:col1/0:col1/9:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/10:txt1",
+   "plain": "千锤百炼铸队列              正步铿锵赴赛场                        少年执旗揽荣光",
+   "occ": 0,
+   "htmlLen": 488,
+   "html": "<p style><strong><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp;千锤百炼铸队列</span></strong></p><p style><strong style><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 正步铿锵赴赛场&nbsp;</span></strong></p><p style><strong style><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;少年执旗揽荣光</span></strong></p>"
+  },
+  {
+   "path": "28:col1/0:col1/11:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/12:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/13:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/14:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "28:col1/0:col1/15:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "29:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "29:col1/1:col1/0:txt1",
+   "plain": "使命必达",
+   "occ": 1,
+   "htmlLen": 56,
+   "html": "<p style=\"text-align: center;\"><strong>使命必达</strong></p>"
+  },
+  {
+   "path": "29:col1/2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "29:col1/3:txt1",
+   "plain": "2025 年世界泳联跳水世界杯总决赛，北京交通大学国旗仪仗队，执旗出征。以规范动作完成赛事升旗 以专业姿态亮相国际赛场此次任务，是能力的检验，是经验的沉淀！",
+   "occ": 0,
+   "htmlLen": 203,
+   "html": "<p><strong>2025 年世界泳联跳水世界杯总决赛，</strong></p><p><strong>北京交通大学国旗仪仗队，执旗出征。</strong></p><p><strong>以规范动作完成赛事升旗</strong></p><p><strong>&nbsp;以专业姿态亮相国际赛场</strong></p><p><strong>此次任务，是能力的检验，是经验的沉淀！</strong></p>"
+  },
+  {
+   "path": "29:col1/4:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "30:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "31:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "32:txt1",
+   "plain": "- 招新预告 -",
+   "occ": 1,
+   "htmlLen": 32,
+   "html": "<p><strong>- 招新预告 -</strong></p>"
+  },
+  {
+   "path": "33:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "34:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "35:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "36:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "36:col1/1:col1/0:txt1",
+   "plain": "现在，轮到你了",
+   "occ": 1,
+   "htmlLen": 59,
+   "html": "<p style=\"text-align: center;\"><strong>现在，轮到你了</strong></p>"
+  },
+  {
+   "path": "36:col1/2:txt1",
+   "plain": "不需要天赋异禀，只需要你心怀敬畏、愿意坚持；不畏惧从零开始的稚嫩，只期待你拥有赤诚之心。无论你是否有队列基础，只要你向往国旗、渴望成长，仪仗队，便为你敞开大门。",
+   "occ": 0,
+   "htmlLen": 770,
+   "html": "<p><strong style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">不需要天赋异禀，</strong><br></p><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>只需要你心怀敬畏、愿意坚持；</strong></p><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>不畏惧从零开始的稚嫩，</strong></p><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>只期待你拥有赤诚之心。</strong></p><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>无论你是否有队列基础，</strong></p><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>只要你向往国旗、渴望成长，</strong></p><p style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); white-space: normal;\"><strong>仪仗队，便为你敞开大门。</strong></p>"
+  },
+  {
+   "path": "36:col1/3:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "37:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "38:col1/0:txt1",
+   "plain": "报名条件",
+   "occ": 1,
+   "htmlLen": 94,
+   "html": "<p style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>报名条件</strong></span></p>"
+  },
+  {
+   "path": "38:col1/1:txt1",
+   "plain": "①男女不限。男生身高170cm及以上，女生身高160cm及以上，队列动作表现突出者可适当放宽。②热爱祖国、责任心强、服从组织安排；③有队列训练、学生教官或视频拍摄、剪辑、新媒体运营等技能者优先。具体以招新要求及最终审核为准。",
+   "occ": 0,
+   "htmlLen": 363,
+   "html": "<p><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">①男女不限。</span>男生身高<strong>170cm及以上</strong>，女生身高<strong>160cm及以上</strong>，队列动作表现突出者<strong>可适当放宽。</strong></p><p><strong><span style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">②</span>热爱祖国</strong>、责任心强、服从组织安排；</p><p>③有队列训练、学生教官或<strong>视频拍摄、剪辑、新媒体运营</strong>等技能者优先。</p><p>具体以招新要求及最终审核为准。</p>"
+  },
+  {
+   "path": "39:txt1",
+   "plain": "招新安排① 9月19日（周六）8:00-18:00主校区南门小树林② 9月20日（周日）8:00-18:00东校区主干道",
+   "occ": 0,
+   "htmlLen": 619,
+   "html": "<p style=\"text-align: center;\"><span style=\"font-size: 150%; font-family: tn-font-family-default;\"><strong>招新安排</strong></span></p><p style=\"text-indent: 2em;\"><span style=\"font-family: tn-font-family-default;\"><strong>① 9月19日（周六）8:00-18:00</strong></span></p><p style=\"text-indent: 2em;\"><span style=\"font-family: tn-font-family-default;\"><strong>主校区南门小树林</strong></span></p><p style=\"text-indent: 2em;\"><span style=\"font-family: tn-font-family-default;\"><strong>② 9月20日（周日）8:00-18:00</strong></span></p><p style=\"text-indent: 2em;\"><span style=\"font-family: tn-font-family-default;\"><strong>东校区主干道</strong></span></p>"
+  },
+  {
+   "path": "41:txt1",
+   "plain": "你可以到摊位一睹队员风采，了解训练内容、升旗任务，现场咨询报名相关问题。",
+   "occ": 1,
+   "htmlLen": 149,
+   "html": "<p style=\"text-indent: 2em;\"><strong style=\"font-family: tn-font-family-default; text-indent: 2em;\">你可以到摊位一睹队员风采，了解训练内容、升旗任务，现场咨询报名相关问题。</strong></p>"
+  },
+  {
+   "path": "42:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "43:txt1",
+   "plain": "有意向者请扫码加入国旗仪仗队招新咨询群。如有问题请联系队长。",
+   "occ": 1,
+   "htmlLen": 126,
+   "html": "<p style=\"text-indent: 2.1333em;\"><span style=\"font-family: tn-font-family-default;\">有意向者请扫码加入国旗仪仗队招新咨询群。如有问题请联系队长。</span></p>"
+  },
+  {
+   "path": "45:txt1",
+   "plain": "具体报名时间与方式以群内通知为准",
+   "occ": 1,
+   "htmlLen": 44,
+   "html": "<p><strong>具体报名时间与方式以群内通知为准</strong><br></p>"
+  },
+  {
+   "path": "46:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "47:txt1",
+   "plain": "转发本篇推送至朋友圈集满15个赞即可参与现场抽奖特等奖  大号南天门战机模型一等奖  小号南天门战机模型二等奖  国旗主题钥匙扣三等奖  零食若干",
+   "occ": 0,
+   "htmlLen": 595,
+   "html": "<p style=\"text-indent: 0em; text-align: center;\"><strong><span style=\"color: rgb(160, 33, 21);\">转发本篇推送至朋友圈<span style=\"text-indent: 2em;\">集满15个赞</span></span></strong></p><p style=\"text-indent: 0em; text-align: center;\"><strong><span style=\"text-indent: 2em; color: rgb(160, 33, 21);\">即可参与现场抽奖</span></strong></p><p style=\"text-align: center;\"><strong>特等奖&nbsp;</strong> 大号南天门战机模型</p><p style=\"text-align: center;\"><strong>一等奖</strong>&nbsp; 小号南天门战机模型</p><p style=\"text-align: center;\"><strong>二等奖</strong>&nbsp; 国旗主题钥匙扣</p><p style=\"text-align: center;\"><strong>三等奖&nbsp;&nbsp;</strong>零食若干</p>"
+  },
+  {
+   "path": "50:txt1",
+   "plain": "奖品有限，先到先得哦",
+   "occ": 1,
+   "htmlLen": 38,
+   "html": "<p><strong>奖品有限，先到先得哦</strong><br></p>"
+  },
+  {
+   "path": "51:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "52:txt1",
+   "plain": "文案｜赵子凡 金玟成排版｜金玟成审核｜陈焕捷 黄译辉图片｜北京交通大学国旗仪仗队",
+   "occ": 0,
+   "htmlLen": 136,
+   "html": "<p><strong>文案｜赵子凡 金玟成</strong></p><p><strong>排版｜金玟成</strong></p><p><strong>审核｜陈焕捷 黄译辉</strong></p><p><strong>图片｜北京交通大学国旗仪仗队</strong></p>"
+  }
+ ],
+ "images": [
+  {
+   "path": "1:col1/0:col1/5:col1/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/e26e278d5f0e8266eb2425ba8b650863-sz_1306112.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_1440,w_1080,x_0,y_0"
+  },
+  {
+   "path": "1:col1/0:col1/5:col2/1:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/aefebb461bb19d59ebe0b8aaf7b3a00e-sz_293675.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_719,w_479,x_301,y_0"
+  },
+  {
+   "path": "1:col1/0:col1/8:col1/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/4199a24827340689422565bfd2893794-sz_2798429.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "1:col1/0:col1/8:col2/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/5148b70ff2f6455651e50dcbf429fd64-sz_5730182.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "1:col1/0:col1/8:col2/1:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/a0e871a1e4930a808ab46c463b36401d-sz_3587928.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "7:col1/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/550c22b5d8a66715736e0f0c8f87bc9e-sz_276495.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_719,w_959,x_61,y_0"
+  },
+  {
+   "path": "8:col2/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/a4b0314d48b28ef9789196d24f235906-sz_539775.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_719,w_959,x_61,y_0"
+  },
+  {
+   "path": "28:col1/0:col1/6:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/225608525101cfe17ef93774d6f8afa6-sz_1790018.png?x-oss-process=style/xm"
+  },
+  {
+   "path": "28:col1/0:col1/7:col2/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/a529c7ea9b872653310e45c4b206225b-sz_270466.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "29:col1/5:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/a486ae429ed7c8e90296a4405021d590-sz_1273746.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_719,w_1079,x_1,y_0"
+  },
+  {
+   "path": "40:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/7db8e6255d7675b761c6c06fc02ba522-sz_132192.png?x-oss-process=style/xm"
+  },
+  {
+   "path": "44:col1/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/88dbbe7a414c29d7e894fb2042fb5d9a-sz_300332.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_1430,w_1050,x_0,y_0"
+  },
+  {
+   "path": "44:col2/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/e90eaea75f0c872b202f59fa819eb0c6-sz_161242.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_1147,w_843,x_0,y_30"
+  },
+  {
+   "path": "48:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/fa936fb4e65d6c5ce120fe78ba496db9-sz_1754486.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_933,w_1080,x_0,y_147"
+  },
+  {
+   "path": "49:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/4713518347683c88064f1df3b5857183-sz_521840.jpg?x-oss-process=style/xm"
+  }
+ ]
+}

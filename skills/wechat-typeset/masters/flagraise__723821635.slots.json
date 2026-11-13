@@ -1,0 +1,286 @@
+{
+ "masterId": "723821635",
+ "type": "flagraise",
+ "title": "礼迎百卅 | 2026级新生开学典礼升旗",
+ "slots": [
+  {
+   "path": "0:col1/9:txt1",
+   "plain": "2026级新生开学典礼升旗",
+   "occ": 2,
+   "htmlLen": 30,
+   "html": "<p style>2026级新生开学典礼升旗<br></p>"
+  },
+  {
+   "path": "0:col1/10:txt1",
+   "plain": "礼迎百卅旗耀青春",
+   "occ": 0,
+   "htmlLen": 118,
+   "html": "<p style><span style=\"font-size: 134.615%;\">礼迎百卅</span></p><p style><span style=\"font-size: 134.615%;\">旗耀青春</span></p>"
+  },
+  {
+   "path": "2:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "2:col1/1:txt1",
+   "plain": "国旗高扬，护旗启新。值此百卅华诞之年，北京交通大学国旗仪仗队承担2026级新生开学典礼升旗任务。",
+   "occ": 1,
+   "htmlLen": 97,
+   "html": "<p style=\"text-indent: 2.1333em;\">国旗高扬，护旗启新。值此百卅华诞之年，北京交通大学国旗仪仗队承担2026级新生开学典礼升旗任务。</p><p><br></p>"
+  },
+  {
+   "path": "3:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "5:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  },
+  {
+   "path": "5:col1/1:col2/0:txt1",
+   "plain": "升旗",
+   "occ": 0,
+   "htmlLen": 30,
+   "html": "<p><strong>升旗<br></strong></p>"
+  },
+  {
+   "path": "5:col1/2:col1/1:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "5:col1/2:col1/2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "5:col1/2:col1/3:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "5:col1/2:col1/4:txt1",
+   "plain": "9月5日8:00，北京交通大学2026级新生开学典礼隆重举行。北交大国旗仪仗队共8名队员承担本次升旗任务。升旗台上，队员们身着礼服，整装肃立。",
+   "occ": 1,
+   "htmlLen": 109,
+   "html": "<p style=\"text-indent: 2.1333em;\">9月5日8:00，北京交通大学2026级新生开学典礼隆重举行。北交大国旗仪仗队共8名队员承担本次升旗任务。升旗台上，队员们身着礼服，整装肃立。</p>"
+  },
+  {
+   "path": "5:col1/2:col1/6:txt1",
+   "plain": "开学典礼正式开始，全场师生面向升旗台。国旗仪仗队队员各就其位，等待升旗指令。",
+   "occ": 1,
+   "htmlLen": 75,
+   "html": "<p style=\"text-indent: 2.125em;\">开学典礼正式开始，全场师生面向升旗台。国旗仪仗队队员各就其位，等待升旗指令。</p>"
+  },
+  {
+   "path": "5:col1/2:col1/8:txt1",
+   "plain": "升旗仪式开始，刀手下达 “向国旗敬礼” 口令，全体队员面向国旗行举手礼。扬旗手利落完成扬旗动作，五星红旗顺势舒展，冉冉升起。全场师生目光齐聚国旗，肃立行注目礼。",
+   "occ": 1,
+   "htmlLen": 117,
+   "html": "<p style=\"text-indent: 2.125em;\">升旗仪式开始，刀手下达 “向国旗敬礼” 口令，全体队员面向国旗行举手礼。扬旗手利落完成扬旗动作，五星红旗顺势舒展，冉冉升起。全场师生目光齐聚国旗，肃立行注目礼。</p>"
+  },
+  {
+   "path": "5:col1/2:col1/10:txt1",
+   "plain": "全体师生齐唱国歌，激昂的旋律响彻会场。五星红旗徐徐升至旗杆顶端，在秋日晴空下迎风飘扬。礼毕，仪仗队员列队退场，本次升旗任务圆满完成。",
+   "occ": 1,
+   "htmlLen": 104,
+   "html": "<p style=\"text-indent: 2.1333em;\">全体师生齐唱国歌，激昂的旋律响彻会场。五星红旗徐徐升至旗杆顶端，在秋日晴空下迎风飘扬。礼毕，仪仗队员列队退场，本次升旗任务圆满完成。</p>"
+  },
+  {
+   "path": "5:col1/2:col1/11:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "6:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "8:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "8:col1/1:col2/0:txt1",
+   "plain": "总结",
+   "occ": 0,
+   "htmlLen": 68,
+   "html": "<p><span style=\"font-size: 125%;\"><strong>总结</strong></span><br></p>"
+  },
+  {
+   "path": "8:col1/2:col1/0:txt1",
+   "plain": "百卅交大，薪火赓续。愿全体交大学子厚植家国情怀，砥砺少年志气，践行交大“知行”校训，不负时代，不负韶华，在新的征程中书写属于交大人的崭新篇章。",
+   "occ": 1,
+   "htmlLen": 153,
+   "html": "<p style=\"text-indent: 2.1333em;\"><span style=\"text-indent: 2.1333em;\">百卅交大，薪火赓续。愿全体交大学子厚植家国情怀，砥砺少年志气，践行交大“知行”校训，不负时代，不负韶华，在新的征程中书写属于交大人的崭新篇章。</span></p>"
+  },
+  {
+   "path": "8:col1/2:col1/1:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "8:col1/3:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "9:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "10:col1/0:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "10:col1/2:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "12:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 13,
+   "html": "<p><br /></p>"
+  },
+  {
+   "path": "13:txt1",
+   "plain": "文案 | 刘温涛排版 | 刘温涛审核 | 陈焕捷 黄译辉图片 | 北京交通大学国旗仪仗队",
+   "occ": 0,
+   "htmlLen": 449,
+   "html": "<p style><strong><span style=\"font-size: 85.7143%; color: rgb(246, 182, 120);\">文案 | 刘温涛<br></span></strong></p><p style><strong><span style=\"font-size: 85.7143%; color: rgb(246, 182, 120);\">排版&nbsp;| 刘温涛</span></strong></p><p style><strong><span style=\"font-size: 85.7143%; color: rgb(246, 182, 120);\">审核 | 陈焕捷 黄译辉</span></strong></p><p style><strong><span style=\"font-size: 85.7143%; color: rgb(246, 182, 120);\">图片 | 北京交通大学国旗仪仗队</span></strong></p>"
+  },
+  {
+   "path": "14:txt1",
+   "plain": "",
+   "occ": 0,
+   "htmlLen": 11,
+   "html": "<p><br></p>"
+  }
+ ],
+ "images": [
+  {
+   "path": "0:col1/0:img1",
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/714952422e2bd2bd74038f3c2cdb6a9a-sz_255356.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_1504,w_1080,x_0,y_182"
+  },
+  {
+   "path": "0:col1/1:img1",
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/5ff2f31762049019e7f4306fdc5fbd7b-sz_31066.png?x-oss-process=image/resize,limit_1,m_lfit,w_1080/crop,h_509,w_1028,x_0,y_0"
+  },
+  {
+   "path": "0:col1/2:img1",
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/9f8dff6085ea1149a758237709c2d64a-sz_242.svg"
+  },
+  {
+   "path": "0:col1/3:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/065ed1e3df4df232acecf8a671e2b303_sz-45780.png?x-oss-process=image/bright,20/contrast,20"
+  },
+  {
+   "path": "0:col1/4:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/d862e846324a9e5bd0a7bda1d46f53dc_sz-43485.png"
+  },
+  {
+   "path": "0:col1/6:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/f341f66ad54cdf4630e28c64f6de6f1f_sz-128902.png"
+  },
+  {
+   "path": "0:col1/7:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/6ff441a1dc321158bdddab0f3d0ddc56_sz-150391.png?x-oss-process=image/bright,30/contrast,-20"
+  },
+  {
+   "path": "0:col1/8:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/662483fc6d5572423616f7decf361757_sz-33701.png"
+  },
+  {
+   "path": "1:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/7503451c7ec299f723f27ee06db7fced_sz-9964.png"
+  },
+  {
+   "path": "4:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/7503451c7ec299f723f27ee06db7fced_sz-9964.png"
+  },
+  {
+   "path": "5:col1/1:col1/0:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/9a1686956d86732b3c3b4912326442e7_sz-2063.svg"
+  },
+  {
+   "path": "5:col1/1:col3/0:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/9a1686956d86732b3c3b4912326442e7_sz-2063.svg"
+  },
+  {
+   "path": "5:col1/2:col1/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/1a5b4de62abc3fb4a99ce4d4ab7a75cc-sz_7381574.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "5:col1/2:col1/5:col1/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/e57b838bd4b6c72abbfa8caa75739499-sz_2704465.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "5:col1/2:col1/7:col1/0:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/c81b4a8811ee23cb9bedb84c39b8af1f-sz_8929141.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "5:col1/2:col1/9:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/5c6f6c781f56d31283c9d39a30d8217f-sz_4648606.jpg?x-oss-process=style/xm"
+  },
+  {
+   "path": "5:col1/2:col1/12:col2/0:img1",
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/5ff2f31762049019e7f4306fdc5fbd7b-sz_31066.png?x-oss-process=style/xm"
+  },
+  {
+   "path": "7:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/7503451c7ec299f723f27ee06db7fced_sz-9964.png"
+  },
+  {
+   "path": "8:col1/1:col1/0:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/9a1686956d86732b3c3b4912326442e7_sz-2063.svg"
+  },
+  {
+   "path": "8:col1/1:col3/0:img1",
+   "src": "//statics.xiumi.us/mat/i/fvId/9a1686956d86732b3c3b4912326442e7_sz-2063.svg"
+  },
+  {
+   "path": "8:col1/2:col1/2:col2/0:img1",
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/5ff2f31762049019e7f4306fdc5fbd7b-sz_31066.png?x-oss-process=style/xm"
+  },
+  {
+   "path": "10:col1/1:img1",
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/54d4221cd1db0b528fb817ab5fe92107-sz_2248792.png?x-oss-process=style/xm"
+  }
+ ]
+}

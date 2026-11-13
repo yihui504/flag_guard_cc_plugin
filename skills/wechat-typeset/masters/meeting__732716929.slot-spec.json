@@ -1,0 +1,369 @@
+{
+ "masterId": "732716929",
+ "type": "meeting",
+ "title": "《发这篇》26预备队新队员见面大会｜怀赤诚相聚，担仪仗荣光",
+ "slots": [
+  {
+   "key": "year",
+   "path": "0:col1/0:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "2026",
+     "len": 4,
+     "occ": 1
+    }
+   ],
+   "primary": "2026",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "2026"
+  },
+  {
+   "key": "headline",
+   "path": "0:col1/0:col1/0:col1/2:txt1",
+   "runs": [
+    {
+     "from": "26中队预备队",
+     "len": 7,
+     "occ": 4
+    },
+    {
+     "from": "新队员见面大会",
+     "len": 7,
+     "occ": 2
+    }
+   ],
+   "primary": "26中队预备队",
+   "primaryUnique": false,
+   "fixed": false,
+   "preview": "26中队预备队新队员见面大会"
+  },
+  {
+   "key": "kicker",
+   "path": "0:col1/0:col1/0:col1/3:col1/0:txt1",
+   "runs": [
+    {
+     "from": "怀赤诚相聚&nbsp; 担护旗荣光",
+     "len": 17,
+     "occ": 1
+    }
+   ],
+   "primary": "怀赤诚相聚&nbsp; 担护旗荣光",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "怀赤诚相聚 ␣担护旗荣光"
+  },
+  {
+   "key": "lede",
+   "path": "3:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "10月14日，北京交通大学国旗仪仗队举行26中队预备队新队员见面大会。本次大会由24中队队长陈焕捷主持，24中队队长团和25中队、26中队预备队全体队员参会。",
+     "len": 79,
+     "occ": 1
+    }
+   ],
+   "primary": "10月14日，北京交通大学国旗仪仗队举行26中队预备队新队员见面大会。本次大会由24中队队长陈焕捷主持，24中队队长团和25中队、26中队预备队全体队员参会。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "10月14日，北京交通大学国旗仪仗队举行26中队预备队新队员见面大会。本次大会由24中队队长陈焕捷主"
+  },
+  {
+   "key": "agenda1_label",
+   "path": "5:col1/1:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "大会第一项",
+     "len": 5,
+     "occ": 2
+    }
+   ],
+   "primary": "大会第一项",
+   "primaryUnique": false,
+   "fixed": true,
+   "preview": "大会第一项"
+  },
+  {
+   "key": "agenda1_title",
+   "path": "5:col1/1:col1/0:col1/1:col1/0:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "全员肃立 &nbsp;奏唱国歌",
+     "len": 15,
+     "occ": 1
+    }
+   ],
+   "primary": "全员肃立 &nbsp;奏唱国歌",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "全员肃立␣ 奏唱国歌"
+  },
+  {
+   "key": "agenda1_body",
+   "path": "6:col1/2:txt1",
+   "runs": [
+    {
+     "from": "大会第一项，出旗。国歌响起，全体队员高唱国歌。此刻，“爱国”二字具象化，护卫国旗的光荣使命，在队员们心中深深扎根。",
+     "len": 57,
+     "occ": 1
+    }
+   ],
+   "primary": "大会第一项，出旗。国歌响起，全体队员高唱国歌。此刻，“爱国”二字具象化，护卫国旗的光荣使命，在队员们心中深深扎根。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "大会第一项，出旗。国歌响起，全体队员高唱国歌。此刻，“爱国”二字具象化，护卫国旗的光荣使命，在队员们"
+  },
+  {
+   "key": "agenda2_label",
+   "path": "8:col1/1:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "大会第二项",
+     "len": 5,
+     "occ": 1
+    }
+   ],
+   "primary": "大会第二项",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "大会第二项"
+  },
+  {
+   "key": "agenda2_title",
+   "path": "8:col1/1:col1/0:col1/1:col1/0:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "队长陈焕捷寄语",
+     "len": 7,
+     "occ": 1
+    }
+   ],
+   "primary": "队长陈焕捷寄语",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "队长陈焕捷寄语"
+  },
+  {
+   "key": "agenda2_body",
+   "path": "9:col1/2:txt1",
+   "runs": [
+    {
+     "from": "陈焕捷队长首先对26中队预备队全体队员表示欢迎。随后以“坚持、珍惜、向上”三个关键词，结合自身在仪仗队的成长经历，与新队员分享感悟，勉励大家克服初入队伍的不适应，珍惜并肩前行的队友情谊，在训练与学习中不断成长。",
+     "len": 105,
+     "occ": 1
+    }
+   ],
+   "primary": "陈焕捷队长首先对26中队预备队全体队员表示欢迎。随后以“坚持、珍惜、向上”三个关键词，结合自身在仪仗队的成长经历，与新队员分享感悟，勉励大家克服初入队伍的不适应，珍惜并肩前行的队友情谊，在训练与学习中不断成长。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "陈焕捷队长首先对26中队预备队全体队员表示欢迎。随后以“坚持、珍惜、向上”三个关键词，结合自身在仪仗"
+  },
+  {
+   "key": "agenda3_label",
+   "path": "11:col1/1:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "大会第三项",
+     "len": 5,
+     "occ": 1
+    }
+   ],
+   "primary": "大会第三项",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "大会第三项"
+  },
+  {
+   "key": "agenda3_title",
+   "path": "11:col1/1:col1/0:col1/1:col1/0:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "26预备队队员自我介绍",
+     "len": 11,
+     "occ": 1
+    }
+   ],
+   "primary": "26预备队队员自我介绍",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "26预备队队员自我介绍"
+  },
+  {
+   "key": "agenda3_body",
+   "path": "12:col1/2:txt1",
+   "runs": [
+    {
+     "from": "26预备队队员依次登台，进行自我介绍，诉说着心中的憧憬，畅谈未来的期许，立志坚守初心、刻苦训练，以昂扬姿态扛起使命。",
+     "len": 58,
+     "occ": 1
+    }
+   ],
+   "primary": "26预备队队员依次登台，进行自我介绍，诉说着心中的憧憬，畅谈未来的期许，立志坚守初心、刻苦训练，以昂扬姿态扛起使命。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "26预备队队员依次登台，进行自我介绍，诉说着心中的憧憬，畅谈未来的期许，立志坚守初心、刻苦训练，以昂"
+  },
+  {
+   "key": "agenda4_label",
+   "path": "14:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "大会第四项",
+     "len": 5,
+     "occ": 1
+    }
+   ],
+   "primary": "大会第四项",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "大会第四项"
+  },
+  {
+   "key": "agenda4_title",
+   "path": "14:col1/0:col1/1:col1/0:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "训练安排与纪律要求",
+     "len": 9,
+     "occ": 1
+    }
+   ],
+   "primary": "训练安排与纪律要求",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "训练安排与纪律要求"
+  },
+  {
+   "key": "agenda4_body",
+   "path": "15:col1/0:txt1",
+   "runs": [
+    {
+     "from": "队长陈焕捷对25中队与26预备队作本学期训练安排。25中队将主持参与升旗任务，需要加强队列动作训练与纪律意识。",
+     "len": 55,
+     "occ": 1
+    },
+    {
+     "from": "随后强调了仪容仪表、请销假、处罚制度等各项纪律要求，表达了对队员们的殷切期望。",
+     "len": 39,
+     "occ": 1
+    }
+   ],
+   "primary": "队长陈焕捷对25中队与26预备队作本学期训练安排。25中队将主持参与升旗任务，需要加强队列动作训练与纪律意识。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "队长陈焕捷对25中队与26预备队作本学期训练安排。25中队将主持参与升旗任务，需要加强队列动作训练与"
+  },
+  {
+   "key": "agenda5_label",
+   "path": "17:col1/1:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "大会第五项",
+     "len": 5,
+     "occ": 1
+    }
+   ],
+   "primary": "大会第五项",
+   "primaryUnique": true,
+   "fixed": true,
+   "preview": "大会第五项"
+  },
+  {
+   "key": "agenda5_title",
+   "path": "17:col1/1:col1/0:col1/1:col1/0:col1/0:col1/0:txt1",
+   "runs": [
+    {
+     "from": "合唱《祖国不会忘记》《国旗护卫队队歌》",
+     "len": 19,
+     "occ": 1
+    }
+   ],
+   "primary": "合唱《祖国不会忘记》《国旗护卫队队歌》",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "合唱《祖国不会忘记》《国旗护卫队队歌》"
+  },
+  {
+   "key": "agenda5_body",
+   "path": "18:col1/2:txt1",
+   "runs": [
+    {
+     "from": "大会最后一项，合唱《祖国不会忘记》和《国旗护卫队队歌》。队员们全体起立，一同唱响心中对国旗的热爱。",
+     "len": 49,
+     "occ": 1
+    },
+    {
+     "from": "歌声渐歇，本次大会圆满结束。新的学期，祝愿新队员在国旗仪仗队开启人生的新篇章，不负心中信仰与荣光！",
+     "len": 49,
+     "occ": 1
+    }
+   ],
+   "primary": "大会最后一项，合唱《祖国不会忘记》和《国旗护卫队队歌》。队员们全体起立，一同唱响心中对国旗的热爱。",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "大会最后一项，合唱《祖国不会忘记》和《国旗护卫队队歌》。队员们全体起立，一同唱响心中对国旗的热爱。歌"
+  },
+  {
+   "key": "signature",
+   "path": "22:col1/0:txt1",
+   "runs": [
+    {
+     "from": "图片 | 北京交通大学国旗仪仗队",
+     "len": 16,
+     "occ": 1
+    },
+    {
+     "from": "审核 | 黄译辉 陈焕捷",
+     "len": 12,
+     "occ": 1
+    },
+    {
+     "from": "文案 | 夏凡 黄译辉",
+     "len": 11,
+     "occ": 1
+    },
+    {
+     "from": "排版 | 夏凡 黄译辉",
+     "len": 11,
+     "occ": 1
+    }
+   ],
+   "primary": "图片 | 北京交通大学国旗仪仗队",
+   "primaryUnique": true,
+   "fixed": false,
+   "preview": "文案␣|␣夏凡␣黄译辉排版␣|␣夏凡␣黄译辉审核␣|␣黄译辉␣陈焕捷图片␣|␣北京交通大学国旗仪仗队"
+  }
+ ],
+ "images": [
+  {
+   "index": 0,
+   "src": "//statics.xiumi.us/xmi/ua/19KxR/i/912769f4fdbe99d37ce77c158bda9f93-sz_260487.png?x-oss-process=style/xm",
+   "path": "1:col1/0:img1"
+  },
+  {
+   "index": 1,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/dd6ff905b56dcf67136c422391e0f234-sz_3359293.jpg?x-oss-process=style/xm",
+   "path": "6:col1/0:col1/0:col1/0:img1"
+  },
+  {
+   "index": 2,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/926c85fbb7b89481f5ebe012ab461bcd-sz_3332932.jpg?x-oss-process=style/xm",
+   "path": "9:col1/0:col1/0:col1/0:img1"
+  },
+  {
+   "index": 3,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/4be489ec02531052721bd885593af9e1-sz_6663384.jpg?x-oss-process=style/xm",
+   "path": "12:col1/0:col1/0:col1/0:img1"
+  },
+  {
+   "index": 4,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/7013010999e155febbdb733505d25c09-sz_3935956.jpg?x-oss-process=style/xm",
+   "path": "18:col1/0:col1/0:col1/0:img1"
+  },
+  {
+   "index": 5,
+   "src": "//img.xiumi.us/xmi/ua/5ov0v/i/54d4221cd1db0b528fb817ab5fe92107-sz_2248792.png?x-oss-process=style/xm",
+   "path": "20:img1"
+  }
+ ]
+}

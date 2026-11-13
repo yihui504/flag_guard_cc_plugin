@@ -1,0 +1,15 @@
+# 凭证——等同密码，绝不入库
+session.json
+session.json.tmp
+cookie.txt
+*.auth.json
+
+# 生产产物
+skills/wechat-typeset/archive/
+push-*.spec.json
+
+# 系统文件
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
